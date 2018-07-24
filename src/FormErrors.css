@@ -1,0 +1,12 @@
+.formErrors{
+  font-size: .75rem;
+  height: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #9A9CA2;
+
+  line-height: 1rem;
+  position: relative;
+  white-space: nowrap;
+}
